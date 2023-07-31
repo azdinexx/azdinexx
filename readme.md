@@ -1,15 +1,6 @@
-#**AZDINE BOUALI**
-![Alt **text**](./images/hero.gif)
+<body>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FF000000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+There++%F0%9F%91%8B;I+am+Azdine+Bouali;Full+Stack+Dev+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" /></a>
 
-##**About Me**
-I am a software engineer with a passion for building web applications. I have a background in computer science and I am currently working as a software engineer at [**Clevertech**](https://www.clevertech.biz/). I have experience working with JavaScript, React, Redux, Node.js, Express, MongoDB, PostgreSQL, and more. I am a quick learner and I am always looking to learn new technologies and improve my skills. I am a team player and I enjoy working with others to build great products.
-
-##**Projects**
-
-###[**_CleverNote_**](https://clevernote.herokuapp.com/)
-
-[![Alt text](./images/clevernote.png)](https://clevernote.herokuapp.com/)
-)
-CleverNote is a note-taking app that allows users to create, edit, and delete notes. Users can also create notebooks and add notes to them. Users can also share notes with other users. This app was built using React, Redux, Node.js, Express, and MongoDB.
+<img src="/images/hero.gif"></img>
 
 </body>
