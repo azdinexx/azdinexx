@@ -12,4 +12,6 @@ I am a software engineer with a passion for building web applications. I have a 
 [![Alt text](./images/clevernote.png)](https://clevernote.herokuapp.com/)
 )
 CleverNote is a note-taking app that allows users to create, edit, and delete notes. Users can also create notebooks and add notes to them. Users can also share notes with other users. This app was built using React, Redux, Node.js, Express, and MongoDB.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azdinexx&show_icons=true&theme=transparent)
