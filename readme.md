@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=rubik&weight=600&duration=3200&pause=400&color=000000&background=FF000000&center=true&vCenter=true&multiline=true&width=824&height=100&lines=Hi+There++%F0%9F%91%8B;I+am+Azdine+Bouali;Full+Stack+Dev+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" /></a>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/azz-eddine-bouali/" title="LinkedIn Profile"><img width="22" src="images/icons//linkedin.svg"> Azdine Bouali</a></code>
-<code><a href="https://www.azeatbouali.tech/" title="Portfolio Website"><img width="22" src="images/icons//portfolio.svg"> Portfolio</a></code>
+<code><a href="https://azdine.vercel.app/" title="Portfolio Website"><img width="22" src="images/icons//portfolio.svg"> Portfolio</a></code>
 </h5>
 <img width="100%" src="/images/cowboy.gif"></img>
 
